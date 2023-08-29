@@ -67,8 +67,6 @@ IP aralıklarını farklı şubeler için ayrı ayrı belirlemek isterseniz, ör
 https://github.com/ugurcomptech/CompanyNetworkMap/assets/133202238/a4d34456-4c2a-486f-acd2-055fda3e6d42
 
 
-![image](https://github.com/ugurcomptech/CompanyNetworkMap/assets/133202238/e5e2d80d-85c0-4305-8cf1-a9ab9c057a38)
 
 
-https://github.com/ugurcomptech/CompanyNetworkMap/assets/133202238/88ce888b-f2c2-4bb3-ad49-4c86d9e3557d
 
