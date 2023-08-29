@@ -13,7 +13,7 @@ IP aralıklarını farklı şubeler için ayrı ayrı belirlemek isterseniz, ör
 
 ![image](https://github.com/ugurcomptech/CompanyNetworkMap/assets/133202238/c8b72d0b-af7c-48d5-a2b7-475cc89cdad6)
 
-Şimdi sırasıyla ıp Yapılandırmalarına geçelim;
+Şimdi sırasıyla IP yapılandırmalarına geçelim;
 
 ## Router IP Yapılandırmaları
 
