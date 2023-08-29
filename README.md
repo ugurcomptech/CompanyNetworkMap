@@ -11,6 +11,9 @@ Network Haritası üzerinde, toplamda 2 adet yönlendirici, 1 adet ev yönlendir
 
 IP aralıklarını farklı şubeler için ayrı ayrı belirlemek isterseniz, örneğin İstanbul ofisi için 192.168.50.1-254 IP aralığını kullanabilirsiniz; Antalya ofisi için ise 192.168.60.1-254 IP aralığını tercih edebilirsiniz. Tamamen sizin tercihinize kalmış.
 
+**NOT:** Routerları birbirine bağlamak için serial kablo seçmeniz ve bunun içinde en uygun router olan; *Router-PT*'yi seçmeniz gerekmektedir. 
+
+
 ![image](https://github.com/ugurcomptech/CompanyNetworkMap/assets/133202238/c8b72d0b-af7c-48d5-a2b7-475cc89cdad6)
 
 Şimdi sırasıyla IP yapılandırmalarına geçelim;
