@@ -21,3 +21,15 @@ IP aralıklarını ister farklı şubeler için yapın örneğin 192.168.50.1-25
   - **Serial 3/0**: 192.168.50.1
   - **GigabitEthernet 7/0:** 192.168.70.1
   - **GigabitEthernet 8/0:** 192.168.80.1
+
+- **Router2**'in konfigürasyonu;
+  - **Serial 2/0**: 192.168.70.1
+  - **GigabitEthernet 7/0:** 192.168.80.1
+  - **GigabitEthernet 8/0:** 192.168.60.1
+  - **GigabitEthernet 9/0:** 192.168.50.1
+ 
+
+
+
+
+
