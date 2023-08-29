@@ -6,9 +6,10 @@ Yapmış olduğumuz network simulasyonunu 4 farklı IP aralığına atadım bunl
   - 192.168.70.1
   - 192.168.80.1
 
-Bu Network Map de toplam 2 tane router, bir tane home router, 5 tane switch, 1 tane Firewall, 1 tane Cloud PT ve 3 tane de server var.
 
-IP aralıklarını ister farklı şubeler için yapın örneğin 192.168.50.1-254 ıp aralığı İstanbul ofisiniz için olsun, Antalya ofisinizin ıp aralığı da 192.168.60.1-254 tamamen size kalmış.
+Network Haritası üzerinde, toplamda 2 adet yönlendirici, 1 adet ev yönlendirici, 5 adet anahtar cihazı, 1 adet güvenlik duvarı, 1 adet Bulut PT ve 3 adet sunucu bulunmaktadır.
+
+IP aralıklarını farklı şubeler için ayrı ayrı belirlemek isterseniz, örneğin İstanbul ofisi için 192.168.50.1-254 IP aralığını kullanabilirsiniz; Antalya ofisi için ise 192.168.60.1-254 IP aralığını tercih edebilirsiniz. Tamamen sizin tercihinize kalmış.
 
 ![image](https://github.com/ugurcomptech/CompanyNetworkMap/assets/133202238/c8b72d0b-af7c-48d5-a2b7-475cc89cdad6)
 
@@ -29,7 +30,45 @@ IP aralıklarını ister farklı şubeler için yapın örneğin 192.168.50.1-25
   - **GigabitEthernet 9/0:** 192.168.50.1
  
 
+- **HomeRouter**'ın konfigürasyonu;
+  - **LAN(Local Area Network):** 192.168.80.1
+ 
+
+## Firewall IP yapılandırması
+
+- **GigabitEthernet 1/1:** 192.168.80.10
 
 
 
+## Server IP Yapılandırmaları
+- **FastEthernet0:** 192.168.80.11
+- **FastEthernet0:** 192.168.80.12
+- **FastEthernet0:** 192.168.80.13
+
+
+## Client IP Yapılandırmaları
+
+- **Client1:** 192.168.50.11
+- **Client1:** 192.168.60.11
+- **Client1:** 192.168.70.11
+- **Client1:** 192.168.80.11
+
+
+## Printer IP Yapılandırmaları
+
+- **Printer1:** 192.168.50.20
+- **Printer2:** 192.168.60.20
+- **Printer3:** 192.168.70.20
+
+## Video
+
+
+
+https://github.com/ugurcomptech/CompanyNetworkMap/assets/133202238/a4d34456-4c2a-486f-acd2-055fda3e6d42
+
+
+![image](https://github.com/ugurcomptech/CompanyNetworkMap/assets/133202238/e5e2d80d-85c0-4305-8cf1-a9ab9c057a38)
+
+
+https://github.com/ugurcomptech/CompanyNetworkMap/assets/133202238/88ce888b-f2c2-4bb3-ad49-4c86d9e3557d
 
